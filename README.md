@@ -1,18 +1,8 @@
-## Getting Started
+## Extended Tic-Tac-Toe Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This program is an extended tic-tac-toe game with a 5x5 grid. The player wins when they get a five in a row. If the entire board fills and there is no five in a row, the match ends in a tie. 
 
-## Folder Structure
+## Game End
 
-The workspace contains two folders by default, where:
+When the game ends, a popup window will display the result. Once this window closes, a new tic-tac-toe game starts.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
